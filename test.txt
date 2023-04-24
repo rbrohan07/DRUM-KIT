@@ -1,0 +1,4 @@
+$(document).on('mousemove',function(e)
+{
+    consol.log('cords: Y :' '+e.clientY+" x : " e.clientX);
+}
